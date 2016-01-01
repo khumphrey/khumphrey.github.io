@@ -3,4 +3,9 @@ body {
 }
 input {
 	text-align: center;
+	display: block;
+}
+.main-box {
+	width:250px;
+	margin:0px auto;
 }
